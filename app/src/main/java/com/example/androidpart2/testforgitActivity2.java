@@ -12,5 +12,6 @@ public class testforgitActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_testforgit2);
         //try for conflict
         //try for conflict2
+        //tryagain for conflict2
     }
 }
