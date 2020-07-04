@@ -10,5 +10,11 @@ public class part2 extends AppCompatActivity {
     protected void onCreate( Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.part2);
+
+        //new line
+    }
+    private void a (){
+
+
     }
 }
