@@ -19,4 +19,5 @@ public class part2 extends AppCompatActivity {
     }
     //add commit to try for  pull(update)
     //try for push with androidstudio
+    //try for pull with androidstudio
 }
