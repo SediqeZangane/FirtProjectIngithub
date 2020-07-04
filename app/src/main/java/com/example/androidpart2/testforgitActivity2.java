@@ -10,5 +10,7 @@ public class testforgitActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_testforgit2);
+        //try for conflict
+
     }
 }
