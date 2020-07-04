@@ -13,6 +13,6 @@ public class testforgitActivity2 extends AppCompatActivity {
         //try for conflict
         //try for conflict2
         //tryagain for conflict2
-        //try for conflict3
+        //try for conflict33
     }
 }
